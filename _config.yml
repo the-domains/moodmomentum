@@ -1,0 +1,28 @@
+name: moodmomentum
+favicon: null
+layout_spectrum: 0.2585810562595725
+typography_spectrum: 0.9729122694116086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8809224914293736
+  lightness: 0.3299247508402914
+  saturation: 0.6961380599532276
+  rhythmicContrast: 0.5937882496509701
+purpose: []
